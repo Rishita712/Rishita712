@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishita Maheshwari</h1>
 <h3 align="center">Pre Final Year B.Tech(AI&DS) Student</h3>
 <img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishita712&label=Profile%20views&color=0e75b6&style=flat" alt="rishita712" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
@@ -18,6 +19,7 @@
 <a href="https://linkedin.com/in/rishita maheshwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishita maheshwari" height="30" width="40" /></a>
 <a href="https://kaggle.com/rishitam2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishitam2017" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishita_712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishita_712" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@rishitam2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rishitam2017" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishita_712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishita_712" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rishitauetg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishitauetg" height="30" width="40" /></a>
 </p>
