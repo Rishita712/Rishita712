@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **rishitam2017@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/17OxTy0RH-YV1RY21wdtacl5R1n44ePRo](https://drive.google.com/drive/folders/17OxTy0RH-YV1RY21wdtacl5R1n44ePRo)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishita maheshwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishita maheshwari" height="30" width="40" /></a>
