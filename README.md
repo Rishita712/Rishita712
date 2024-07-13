@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishita Maheshwari</h1>
-<h3 align="center">Pre Final Year B.Tech(AI&DS) Student</h3>
+<h3 align="center">Final Year B.Tech(AI&DS) Student</h3>
 <img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishita712&label=Profile%20views&color=0e75b6&style=flat" alt="rishita712" /> </p>
